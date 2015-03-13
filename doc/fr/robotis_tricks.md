@@ -1,18 +1,18 @@
 # /!\ Robotis Dynamixel : piège pour les débutants
 
-Lorsque vous souhaitez assembler un Poppy, la première chose dont il faut vous assurer **est que vous assemblez correctement la tige des moteurs Dynamixel**. C'est à la fois la première étape et peut-être la plus critique. Une erreur dans la configuration ou l'assemblage de cette étape sera véritablement difficle à changer une fois que Poppy sera assemblé.
+Lorsque vous souhaitez assembler un Poppy, la première chose dont il faut vous assurer **est que vous assemblez correctement le palonnier des moteurs Dynamixel**. C'est à la fois la première étape et peut-être la plus critique. Une erreur dans la configuration ou l'assemblage de cette étape sera véritablement difficle à changer une fois que Poppy sera assemblé.
 
-## 1. Gérer la tige sur le moteur
+## 1. Gérer le palonnier sur le moteur
 **ATTENTION ! Cette étape est critique !**
 
-Les moteurs Dynamixel sont vendu non assemblés, vous aurez à ajouter manuellement la tige HN07-N101 (pour le modèle MX-28) et HN05-N102 (pour le modèle MX-64).
-Le point critique est de placer la tige correctement, sur la position zéro. Pour le faire, vous aurez à aligner correctement la marque de poinçon de l'arbre avec l'entaille de la tige :
+Les moteurs Dynamixel sont vendu non assemblés, vous aurez à ajouter manuellement le palonnier HN07-N101 (pour le modèle MX-28) et HN05-N102 (pour le modèle MX-64).
+Le point critique est de placer le palonnier correctement, sur la position zéro. Pour le faire, vous aurez à aligner correctement la marque de poinçon de l'arbre avec l'entaille de le palonnier :
 
 <img src="img/robotis_dynamixel_axe_mark.jpg" height="300"> <img src="img/robotis_horn_mark.jpg" height="300">
 
-Quand montée, la tige est véritablement difficile à enlever et vous aurez certainement à endommager le moteur aussi, tourner sept fois vos doigts dans vos mains avant d'agir !
+Quand montée, le palonnier est véritablement difficile à enlever et vous aurez certainement à endommager le moteur aussi, tourner sept fois vos doigts dans vos mains avant d'agir !
 
-De même, il est assez difficile de placer la tige dans l'arbre, vous aurez certainement à utiliser une vis (M2.5x8mm) et la serrer pour assembler correctement les deux éléments.
+De même, il est assez difficile de placer le palonnier dans l'arbre, vous aurez certainement à utiliser une vis (M2.5x8mm) et la serrer pour assembler correctement les deux éléments.
 
 ## 2. Configuration des moteurs
 Lorsque vous sortez le moteur de sa boîte, son ID interne est 1. Aussi, avant de le brancher sur le bus de communication, vous aurez à le configurer. Autrement vous aurez des problèmes comme expérimentés dans ce  [topic](https://forum.poppy-project.org/t/dynamixel-first-uses/91/5).
