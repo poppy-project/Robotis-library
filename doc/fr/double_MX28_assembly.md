@@ -1,12 +1,12 @@
 # Assemblage des Double Dynamixel MX-28 AT/R
 
-![Assemblage de la poitrine](img/MX_double_rotation_CAD_model.jpg)
+![Assemblage de la poitrine](../img/MX_double_rotation_CAD_model.jpg)
 
 - Préparation: 5-10 min
 - Assemblage : 20-25 min
 
 ## Exigences :
-![Assemblage de la poitrine](img/double_MX28_BOM.jpg)
+![Assemblage de la poitrine](../img/double_MX28_BOM.jpg)
 
 **Partie imprimées en 3D**:
 - 1x i101-Set_to_MX28_link

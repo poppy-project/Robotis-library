@@ -1,12 +1,12 @@
 # Double Dynamixel MX-64 AT/R assembly
 
-![Chest Assembly](img/MX_double_rotation_CAD_model.jpg)
+![Chest Assembly](../img/MX_double_rotation_CAD_model.jpg)
 
 - Preparation: 105 min
 - Assembly: 20-25 min
 
 ## Requirement:
-![Chest Assembly](img/double_MX64_BOM.jpg)
+![Chest Assembly](../img/double_MX64_BOM.jpg)
 
 **3D Printed parts**:
 - 1x i101-Set_to_MX64_link
