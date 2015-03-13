@@ -8,7 +8,7 @@ Lorsque vous souhaitez assembler un Poppy, la première chose dont il faut vous 
 Les moteurs Dynamixel sont vendu non assemblés, vous aurez à ajouter manuellement le palonnier HN07-N101 (pour le modèle MX-28) et HN05-N102 (pour le modèle MX-64).
 Le point critique est de placer le palonnier correctement, sur la position zéro. Pour le faire, vous aurez à aligner correctement la marque de poinçon de l'arbre avec l'entaille de le palonnier :
 
-<img src="img/robotis_dynamixel_axe_mark.jpg" height="300"> <img src="img/robotis_horn_mark.jpg" height="300">
+<img src="../img/robotis_dynamixel_axe_mark.jpg" height="300"> <img src="../img/robotis_horn_mark.jpg" height="300">
 
 Quand montée, le palonnier est véritablement difficile à enlever et vous aurez certainement à endommager le moteur aussi, tourner sept fois vos doigts dans vos mains avant d'agir !
 

@@ -8,7 +8,7 @@ When you want to assemble a Poppy, the first thing to do is to ensure yourself *
 Dynamixel motors are sold unassembled, you have to add manually the horn HN07-N101 (for MX-28) and HN05-N102 (for MX-64).
 The critical aspect is to put the horn correctly on the zero position. To do that, you have to correctly align the awl mark on the Dynamixel shaft and the snick on the horn:
 
-<img src="img/robotis_dynamixel_axe_mark.jpg" height="300"> <img src="img/robotis_horn_mark.jpg" height="300">
+<img src="../img/robotis_dynamixel_axe_mark.jpg" height="300"> <img src="../img/robotis_horn_mark.jpg" height="300">
 
 When assembled, the horn is really difficult to remove and you will probably damage the motor, so check twice or thrice !
 
