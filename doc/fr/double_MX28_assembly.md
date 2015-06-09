@@ -36,6 +36,6 @@
 
 ## Instructions d'assemblage :
 
-- **Etape 1:** Assurez-vous d'avoir lu [**cette note**](robotis_trick.md) avant de continuer pour éviter les pièges classiques (et critiques) rencontrés lors de l'utilisation des actionneurs Robotis Dynamixel.
+- **Etape 1:** Assurez-vous d'avoir lu [**cette note**](robotis_tricks.md) avant de continuer pour éviter les pièges classiques (et critiques) rencontrés lors de l'utilisation des actionneurs Robotis Dynamixel.
 - **Etape 2**: CLiquez sur l'image ci-dessous pour afficher la vidéo :
 [![Assemblage du Double MX28](http://img.youtube.com/vi/9oNGV9ggHaE/0.jpg)](http://youtu.be/9oNGV9ggHaE)

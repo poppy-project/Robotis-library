@@ -36,6 +36,6 @@
 
 ## Assembly instructions:
 
-- **Step 1:** Ensure you have read [**this note**](robotis_trick.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 1:** Ensure you have read [**this note**](robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
 - **Step 2**: Click on the image below to display the video:
 [![Double MX28 Assembly](http://img.youtube.com/vi/9oNGV9ggHaE/0.jpg)](http://youtu.be/9oNGV9ggHaE)
