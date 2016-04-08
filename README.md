@@ -8,5 +8,6 @@ Please keep references to the Poppy project (www.poppy-project.org) and authors 
 **Authors:** Matthieu Lapeyre, Alexandre Le Falher.
 
 ## Support
+
 You need support ?
-The [Poppy forum](forum.poppy-project.org) is the best (and single) place to ask for help !
+The [Poppy forum](https://forum.poppy-project.org/) is the best (and single) place to ask for help!
