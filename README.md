@@ -1,11 +1,11 @@
 Robotis CAD library
 ===================
 
-Solidworks library of Robotis CAD models. 
+Solidworks library of Robotis CAD models.
 It includes the Dynamixel AX-Series and MX/RX-series.
 
-In addition, there are 3D printable parts allowing for compact double rotation assemblies. 
-
+In addition, there are 3D printable parts allowing for compact double rotation assemblies (available for 3 configuration (MX64-MX64, MX64-MX28, MX28-MX28))
+![double-rotation](solidworks_document.PNG)
 
 [![licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/) **This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).**
 
